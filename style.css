@@ -18,7 +18,7 @@ body{
 
 .title{
     margin-bottom: 1rem;
-    font-size: 9rem;
+    font-size: 11rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-stretch: extra-expanded;
 }
@@ -34,7 +34,7 @@ body{
     color: black;
     display: grid;
     grid-template-columns: 4fr 1fr;
-    max-width: 80rem;
+    max-width: 95rem;
     margin: 0px auto;
     align-items: center;
     padding: 0px 0px 0px 5rem;
