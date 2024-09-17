@@ -34,7 +34,7 @@ body{
     color: black;
     display: grid;
     grid-template-columns: 4fr 1fr;
-    max-width: 95rem;
+    max-width: 100rem;
     margin: 0px auto;
     align-items: center;
     padding: 0px 0px 0px 5rem;
